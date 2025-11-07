@@ -3,10 +3,15 @@
 ## 📚 Padrão de Níveis de Dificuldade
 
 **Nível 1:** Conceitos básicos (variáveis de estado, funções simples)
+
 **Nível 2:** Manipulação de dados (arrays, mappings, validações básicas)
+
 **Nível 3:** Lógica intermediária (controle de acesso, eventos, modifiers)
+
 **Nível 4:** Sistemas intermediários (múltiplas entidades, timelock, permissões)
+
 **Nível 5:** Padrões avançados (tokens ERC, interfaces, herança)
+
 **Nível 6:** Sistemas complexos (marketplaces, leilões, interações entre contratos)
 
 ---
